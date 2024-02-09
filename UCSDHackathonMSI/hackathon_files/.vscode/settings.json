@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "filesystem": "cpp",
+        "xstring": "cpp",
+        "string": "cpp",
+        "typeinfo": "cpp",
+        "unordered_map": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
